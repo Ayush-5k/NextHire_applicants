@@ -7,7 +7,7 @@ python-docx
 pandas
 plotly
 pillow
-pycryptodome
+pycryptodome>=3.10
 python-dotenv
 pdfminer.six
 nltk
