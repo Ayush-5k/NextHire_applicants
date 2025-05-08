@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #  **🏝️ Smart AI Resume Analyzer 🏝️**  
 <!--<img src="https://github.com/user-attachments/assets/8a37c282-efa0-45af-8f37-8e564a62ecd2" width="35">-->
@@ -466,3 +467,6 @@ Get actionable feedback and align your resume to job descriptions effortlessly.
 
 > Note: **Time Taking For scraping so have Patience**
 
+=======
+# NextHire_applicants
+>>>>>>> 90a1e0dd3d1793c6529f2084db9820fa398d4fb6
